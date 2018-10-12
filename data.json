@@ -1,0 +1,44 @@
+[
+    {
+        "title":"A study of city-level building energy efficiency benchmarking system for China",
+        "authors":[
+            {"liliao":["a","b"]},
+            {"liliaoliao":["c"]}
+        ],
+        "affiliations":[
+            {"a":"Institute of Building Environment and Energy, China Academy of Building Research, Beijing, China"},
+            {"b":"Institute of Building Environment and Energy, China Academy of Building Research, Beijing, China"},
+            {"c":"Institute of Building Environment and Energy, China Academy of Building Research, Beijing, China"}
+        ],
+        "abstract":[
+            "The city-level public building energy efficiency benchmarking",
+            "The city-level public building energy efficiency benchmarking"
+        ],
+        "img":[
+            {"FigName1":"https://ars.els-cdn.com/content/image/1-s2.0-S0378778818314063-gr1_lrg.jpg"},
+            {"FigName2":"https://ars.els-cdn.com/content/image/1-s2.0-S0378778818314063-gr1_lrg.jpg"}
+        ],
+        "article-link":"https://doi.org/10.1016/j.enbuild.2018.06.038"
+    },
+    {
+        "title":"A study of city-level building energy efficiency benchmarking system for China",
+        "authors":[
+            {"liliao":["a","b"]},
+            {"liliaoliao":["c"]}
+        ],
+        "affiliations":[
+            {"a":"Institute of Building Environment and Energy, China Academy of Building Research, Beijing, China"},
+            {"b":"Institute of Building Environment and Energy, China Academy of Building Research, Beijing, China"},
+            {"c":"Institute of Building Environment and Energy, China Academy of Building Research, Beijing, China"}
+        ],
+        "abstract":[
+            "The city-level public building energy efficiency benchmarking",
+            "The city-level public building energy efficiency benchmarking"
+        ],
+        "img":[
+            {"FigName1":"https://ars.els-cdn.com/content/image/1-s2.0-S0378778818314063-gr1_lrg.jpg"},
+            {"FigName2":"https://ars.els-cdn.com/content/image/1-s2.0-S0378778818314063-gr1_lrg.jpg"}
+        ],
+        "article-link":"https://doi.org/10.1016/j.enbuild.2018.06.038"
+    }
+]
